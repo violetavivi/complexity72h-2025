@@ -5,4 +5,4 @@ The meanings of the columns are as follows:
 1. smapc_from_1_to_1 => this is the intraspecific interaction strength (similarly, you have smapc_from_2_to_2, ...., xxx_from_15_to_15).
 2. smapc_from_5_to_1 => this is an interaction from Species 5 to Species 1, which you can use to reproduce Figure 2.
 
-All original data from Figure 2 is in smapCoef_Fig2.csv file. NB the signs are the opposite (for us, competition is negative, for them it is the other way around)
+All original data from Figure 2 is in smapCoef_Fig2.csv file.
